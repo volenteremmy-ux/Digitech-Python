@@ -9,6 +9,9 @@
 # a = 5
 # print(a>>2)
 
-#Left
-a = 5
+# #Left
+# a = 5
+# print(a<<2)
+
+a = 3
 print(a<<2)
